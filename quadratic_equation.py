@@ -12,4 +12,3 @@ def get_roots(a, b, c):
         return root1, None
     else:
         return None, None
-

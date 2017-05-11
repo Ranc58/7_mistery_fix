@@ -1,10 +1,10 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+This program calculates discriminant and roots
 
 # How to Use
 
-[TODO]
+Give some values to func "get_roots" in quadratic_equation.py
 
 # How to Launch Tests
 
